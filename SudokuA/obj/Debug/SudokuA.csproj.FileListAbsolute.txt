@@ -1,0 +1,8 @@
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\bin\Debug\SudokuA.exe.config
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\bin\Debug\SudokuA.exe
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\bin\Debug\SudokuA.pdb
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\obj\Debug\SudokuA.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\obj\Debug\SudokuA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\obj\Debug\SudokuA.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\obj\Debug\SudokuA.exe
+C:\Users\Ariel\Desktop\Studies\AI\SUDOKU A\SudokuA\SudokuA\obj\Debug\SudokuA.pdb
